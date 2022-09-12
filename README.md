@@ -91,4 +91,6 @@ Expense Fields:
 7.	Client account cannot see sittings section or access other users accounts
 8.	Admin can access all companies
 ![stito](https://user-images.githubusercontent.com/35220325/189675716-c034b220-6a4b-4a97-9c86-d6074787859f.png)
+![mobile](https://user-images.githubusercontent.com/35220325/189675909-f57b0adc-d7f5-4499-bbd7-8f39a2df59dc.png)
+
 
