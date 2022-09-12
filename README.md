@@ -5,6 +5,7 @@ Complete invoicing Web APP Solution with APPLE &amp; Android Mobile Application.
 # React Native
 # HTML
 # CSS
+# MySQL
 /----------------------------/
 This is a complete invoicing solution for bookkeepers and their clients and it has mobile and web application access. The app consists of the below sections
 1.	Dashboard
